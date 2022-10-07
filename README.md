@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rahultechn0
+- 👋 Hi, I’m Rahul
 - 👀 I’m interested in Laravel 
 - 🌱 I’m currently learning Solidity...
 - 💞️ I’m looking to collaborate on Blockchain Technology
